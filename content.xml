@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505130517AAMTQ7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505130517P09O6B</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Anatomía 2.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Claudia Rosa Cobos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777978576592</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio: Anatomía 2.0</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio: Anatomía 2.0</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+      <odeBlockId>block-1777975177026-osmyoz9i8</odeBlockId>
+      <blockName>🩰 Anatomía 2.0: Biomecánica segura y curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+          <odeBlockId>block-1777975177026-osmyoz9i8</odeBlockId>
+          <odeIdeviceId>idevice-1777975177025-tfby2otbl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🌟 Presentación del Proyecto<br />¡Bienvenidos/as a Anatomía 2.0! Como alumnos y alumnas de 6º curso de Enseñanzas Profesionales, estáis en la recta final de vuestra formación. En esta etapa, vuestro cuerpo es vuestra herramienta de trabajo, pero... ¿sabéis realmente cómo cuidarlo frente a la desinformación de internet?</p>
+<p>En este proyecto vamos a unir la Anatomía de la Danza con la Competencia Digital. No solo estudiaremos la biomecánica de la cadera y el en dehors, sino que aprenderemos a ser "detectives científicos" para distinguir entre un consejo saludable y un mito lesivo en redes sociales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975177025-tfby2otbl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🌟 Presentación del Proyecto<br />¡Bienvenidos/as a Anatomía 2.0! Como alumnos y alumnas de 6º curso de Enseñanzas Profesionales, estáis en la recta final de vuestra formación. En esta etapa, vuestro cuerpo es vuestra herramienta de trabajo, pero... ¿sabéis realmente cómo cuidarlo frente a la desinformación de internet?</p>\n<p>En este proyecto vamos a unir la Anatomía de la Danza con la Competencia Digital. No solo estudiaremos la biomecánica de la cadera y el en dehors, sino que aprenderemos a ser \"detectives científicos\" para distinguir entre un consejo saludable y un mito lesivo en redes sociales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+      <odeBlockId>block-1777975394540-5r1qiyn2y</odeBlockId>
+      <blockName>🎯 ¿Cuál es nuestro objetivo?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+          <odeBlockId>block-1777975394540-5r1qiyn2y</odeBlockId>
+          <odeIdeviceId>idevice-1777975394539-5omsk4hyw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📋 Información del proyecto:</p>
+<p></p>
+<p>📍 Nivel: 6º curso de Enseñanzas Profesionales de Danza (Clásica).</p>
+<p><br />🧠 Temática: Biomecánica de la cadera, prevención de lesiones y salud digital.</p>
+<p><br />⏳ Duración: 6 sesiones (3 semanas de investigación).</p>
+<p><br />🌐 Idiomas: Castellano, terminología técnica en Francés y fuentes científicas en Inglés.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975394539-5omsk4hyw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>📋 Información del proyecto:</p>\n<p></p>\n<p>📍 Nivel: 6º curso de Enseñanzas Profesionales de Danza (Clásica).</p>\n<p><br />🧠 Temática: Biomecánica de la cadera, prevención de lesiones y salud digital.</p>\n<p><br />⏳ Duración: 6 sesiones (3 semanas de investigación).</p>\n<p><br />🌐 Idiomas: Castellano, terminología técnica en Francés y fuentes científicas en Inglés.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+      <odeBlockId>block-1777975512238-n1348snze</odeBlockId>
+      <blockName>A lo largo de estas semanas, vamos a trabajar de forma colaborativa para:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974785686-ifthv0xdc</odePageId>
+          <odeBlockId>block-1777975512238-n1348snze</odeBlockId>
+          <odeIdeviceId>idevice-1777975512237-xir3l507d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Analizar vuestro "en dehors": Entender vuestra anatomía de forma ética y sin comparaciones tóxicas.</p>
+<p><br />Ser críticos: Aprenderéis a usar repositorios médicos (como la IADMS) para desmentir los peligrosos "trucos" de TikTok o Instagram.</p>
+<p><br />Crear salud: Diseñaremos juntos una "Guía Digital de Supervivencia Anatómica".</p>
+<p><br />💡 Una idea clave: Tu salud física depende de tu salud digital. No todo lo que ves en un vídeo de 15 segundos es seguro para tu cadera.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975512237-xir3l507d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Analizar vuestro \"en dehors\": Entender vuestra anatomía de forma ética y sin comparaciones tóxicas.</p>\n<p><br />Ser críticos: Aprenderéis a usar repositorios médicos (como la IADMS) para desmentir los peligrosos \"trucos\" de TikTok o Instagram.</p>\n<p><br />Crear salud: Diseñaremos juntos una \"Guía Digital de Supervivencia Anatómica\".</p>\n<p><br />💡 Una idea clave: Tu salud física depende de tu salud digital. No todo lo que ves en un vídeo de 15 segundos es seguro para tu cadera.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+  <odeParentPageId>page-1777974785686-ifthv0xdc</odeParentPageId>
+  <pageName>Tu Misión (El Reto)</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tu Misión (El Reto)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+      <odeBlockId>block-1777975875872-4p0q0qt41</odeBlockId>
+      <blockName>📖 El Desafío: Vuestra Guía Interactiva</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+          <odeBlockId>block-1777975875872-4p0q0qt41</odeBlockId>
+          <odeIdeviceId>idevice-1777975875871-w4zk0tbua</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vuestra misión no es solo estudiar anatomía, sino convertiros en divulgadores de salud. Vais a crear una herramienta que podría salvar la carrera de muchos bailarines: la "Guía Digital de Supervivencia Anatómica".</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975875871-w4zk0tbua","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Vuestra misión no es solo estudiar anatomía, sino convertiros en divulgadores de salud. Vais a crear una herramienta que podría salvar la carrera de muchos bailarines: la \"Guía Digital de Supervivencia Anatómica\".</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+      <odeBlockId>block-1777975893025-u0k4b0lfv</odeBlockId>
+      <blockName>🛠️ La Herramienta Estrella: Genially</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+          <odeBlockId>block-1777975893025-u0k4b0lfv</odeBlockId>
+          <odeIdeviceId>idevice-1777975893025-51xq316ia</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el producto final utilizaremos Genially. ¿Por qué?</p>
+<p>Es interactiva: Podréis añadir botones, capas de información y vídeos sobre vuestras fotos anatómicas.<br />Es colaborativa: Podréis trabajar varios a la vez en el mismo diseño (coedición).<br />Es profesional: No necesitáis ser diseñadores gráficos; las plantillas os ayudarán a que el resultado parezca de una revista científica de danza.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975893025-51xq316ia","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Para el producto final utilizaremos Genially. ¿Por qué?</p>\n<p>Es interactiva: Podréis añadir botones, capas de información y vídeos sobre vuestras fotos anatómicas.<br />Es colaborativa: Podréis trabajar varios a la vez en el mismo diseño (coedición).<br />Es profesional: No necesitáis ser diseñadores gráficos; las plantillas os ayudarán a que el resultado parezca de una revista científica de danza.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+      <odeBlockId>block-1777975905722-edr2yzqtk</odeBlockId>
+      <blockName>🔍 Nuestra &quot;Lupa&quot; Biomecánica: Kinovea</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+          <odeBlockId>block-1777975905722-edr2yzqtk</odeBlockId>
+          <odeIdeviceId>idevice-1777975905722-hw3m08wt4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de diseñar la guía, pasaremos por el laboratorio. Usaremos Kinovea (o herramientas de análisis de vídeo similares) para:</p>
+<ol>
+<li>Ralentizar el movimiento: Ver exactamente qué pasa en vuestra cadera en slow motion.<br /></li>
+<li>Medir ángulos: Dibujar sobre el vídeo para comprobar la alineación real de vuestro en dehors.<br /></li>
+<li>Comparar: Ver la diferencia entre una ejecución forzada (mito) y una ejecución saludable (ciencia).</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975905722-hw3m08wt4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de diseñar la guía, pasaremos por el laboratorio. Usaremos Kinovea (o herramientas de análisis de vídeo similares) para:</p>\n<ol>\n<li>Ralentizar el movimiento: Ver exactamente qué pasa en vuestra cadera en slow motion.<br /></li>\n<li>Medir ángulos: Dibujar sobre el vídeo para comprobar la alineación real de vuestro en dehors.<br /></li>\n<li>Comparar: Ver la diferencia entre una ejecución forzada (mito) y una ejecución saludable (ciencia).</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+      <odeBlockId>block-1777975918715-b5e3iyv2c</odeBlockId>
+      <blockName>📝 Requisitos de la Misión (Checklist)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+          <odeBlockId>block-1777975918715-b5e3iyv2c</odeBlockId>
+          <odeIdeviceId>idevice-1777975918714-zln13d7de</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que vuestra guía sea un éxito, debe incluir:</p>
+<p>Análisis real: Fotos o vídeos vuestros analizados con ángulos y ejes.</p>
+<p><br />Mito vs. Ciencia: Un "falso truco" de redes sociales desmentido con argumentos de la IADMS.</p>
+<p><br />Interactividad: Que el lector pueda "pinchar" para descubrir consejos de prevención.</p>
+<p></p>
+<p><br />💡 Consejo de Pro: Usaremos la política BYOD (Trae tu propio dispositivo). Podéis usar vuestras tablets o portátiles, o los equipos de la biblioteca. ¡Todo está en la nube!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975918714-zln13d7de","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Para que vuestra guía sea un éxito, debe incluir:</p>\n<p>Análisis real: Fotos o vídeos vuestros analizados con ángulos y ejes.</p>\n<p><br />Mito vs. Ciencia: Un \"falso truco\" de redes sociales desmentido con argumentos de la IADMS.</p>\n<p><br />Interactividad: Que el lector pueda \"pinchar\" para descubrir consejos de prevención.</p>\n<p></p>\n<p><br />💡 Consejo de Pro: Usaremos la política BYOD (Trae tu propio dispositivo). Podéis usar vuestras tablets o portátiles, o los equipos de la biblioteca. ¡Todo está en la nube!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+      <odeBlockId>block-1777976180247-n3rzda7i0</odeBlockId>
+      <blockName>Todo lo que afirmemos debe estar respaldado por la International Association for Dance Medicine &amp; Science (IADMS)</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974818591-qdeklmbqr</odePageId>
+          <odeBlockId>block-1777976180247-n3rzda7i0</odeBlockId>
+          <odeIdeviceId>idevice-1777976180246-irsfmuugd</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Para que nuestra guía sea rigurosa y profesional, utilizaremos únicamente fuentes con base científica contrastada. La IADMS es la organización líder mundial en medicina y ciencia aplicada a la danza. Consultar sus recursos nos asegura que los consejos de salud que daremos son seguros, evitaremos lesiones y estaremos a la vanguardia de la técnica actual</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>En resumen: No te fíes de cualquier vídeo de internet. Usa siempre la información oficial de la IADMS para que tus ejercicios sean seguros para tu cuerpo.</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974829579-d6635qxg2</odePageId>
+  <odeParentPageId>page-1777974785686-ifthv0xdc</odeParentPageId>
+  <pageName>Normas y Seguridad Digital</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Normas y Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974829579-d6635qxg2</odePageId>
+      <odeBlockId>block-1777976559748-zx6lgjxeg</odeBlockId>
+      <blockName>🛡️ Baila con seguridad, comparte con cabeza</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974829579-d6635qxg2</odePageId>
+          <odeBlockId>block-1777976559748-zx6lgjxeg</odeBlockId>
+          <odeIdeviceId>idevice-1777976559747-6o0shn7ad</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto vamos a usar cámaras para mejorar nuestra técnica, pero antes debemos conocer nuestros derechos y deberes digitales.</p>
+<p>🩰 1. Lo que pasa en mallas... se queda en mallas<br />Tu cuerpo es tu herramienta de trabajo y tu imagen es un dato personal íntimo. Antes de subir un vídeo a redes, revisa tu privacidad. Tú decides quién ve tu esfuerzo.</p>
+<p>🛑 2. Paparazzis en la barra: ¡No, gracias!<br />El aula es un espacio de confianza. NO grabes ni fotografíes a compañeros/as o profesores sin su permiso explícito. Grabar un fallo o una corrección ajena para compartirlo es una vulneración grave de sus derechos de imagen.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777976559747-6o0shn7ad","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>En este proyecto vamos a usar cámaras para mejorar nuestra técnica, pero antes debemos conocer nuestros derechos y deberes digitales.</p>\n<p>🩰 1. Lo que pasa en mallas... se queda en mallas<br />Tu cuerpo es tu herramienta de trabajo y tu imagen es un dato personal íntimo. Antes de subir un vídeo a redes, revisa tu privacidad. Tú decides quién ve tu esfuerzo.</p>\n<p>🛑 2. Paparazzis en la barra: ¡No, gracias!<br />El aula es un espacio de confianza. NO grabes ni fotografíes a compañeros/as o profesores sin su permiso explícito. Grabar un fallo o una corrección ajena para compartirlo es una vulneración grave de sus derechos de imagen.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974829579-d6635qxg2</odePageId>
+      <odeBlockId>block-1777976590606-t1zgjtu0h</odeBlockId>
+      <blockName>Ética y Salud Mental en la Red.</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974829579-d6635qxg2</odePageId>
+          <odeBlockId>block-1777976590606-t1zgjtu0h</odeBlockId>
+          <odeIdeviceId>idevice-1777976590605-cspw4wl6h</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>👻 El fantasma del Copyright: No "robes" música ni pasos. Usa licencias libres (Creative Commons) y cita siempre al coreógrafo/a y al músico. ¡Baila legal!</p>
+<p><br>🩹 Filtros vs. Realidad: Las redes sociales son solo el "estreno", no muestran el sudor ni los callos. No compares tu proceso con el resultado editado de otros. Si sientes presión, ¡desconecta! Tu salud mental es lo primero.</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Sé respetuoso con la imagen de los demás, cita a los autores de la música y no te obsesiones con la perfección de las redes sociales. Lo importante es tu salud y tu proceso.</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974837262-ha0gst46t</odePageId>
+  <odeParentPageId>page-1777974785686-ifthv0xdc</odeParentPageId>
+  <pageName>Recursos y Herramientas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y Herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974837262-ha0gst46t</odePageId>
+      <odeBlockId>block-1777976813479-1tfw6ddxd</odeBlockId>
+      <blockName>📑 Nuestro Muro de Investigación (Padlet)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974837262-ha0gst46t</odePageId>
+          <odeBlockId>block-1777976813479-1tfw6ddxd</odeBlockId>
+          <odeIdeviceId>idevice-1777976813478-kwrmb6iss</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que vuestra Guía de Supervivencia sea la mejor, he preparado un muro interactivo donde he seleccionado y filtrado la información más importante para vosotros.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777976813478-kwrmb6iss","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Para que vuestra Guía de Supervivencia sea la mejor, he preparado un muro interactivo donde he seleccionado y filtrado la información más importante para vosotros.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974837262-ha0gst46t</odePageId>
+      <odeBlockId>block-1777976843945-d2eixmyux</odeBlockId>
+      <blockName>Aquí encontraréis:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974837262-ha0gst46t</odePageId>
+          <odeBlockId>block-1777976843945-d2eixmyux</odeBlockId>
+          <odeIdeviceId>idevice-1777976843944-31nws8g9l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tutoriales de Genially: Para que vuestro diseño sea increíble.</p>
+<p><br />Enlaces a la IADMS: Los artículos científicos necesarios para desmentir mitos.</p>
+<p><br />Protocolos éticos: Cómo usar vuestra imagen de forma segura.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777976843944-31nws8g9l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tutoriales de Genially: Para que vuestro diseño sea increíble.</p>\n<p><br />Enlaces a la IADMS: Los artículos científicos necesarios para desmentir mitos.</p>\n<p><br />Protocolos éticos: Cómo usar vuestra imagen de forma segura.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974837262-ha0gst46t</odePageId>
+      <odeBlockId>block-1777976912261-iir3tj5wu</odeBlockId>
+      <blockName>Accede al muri aquí:</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974837262-ha0gst46t</odePageId>
+          <odeBlockId>block-1777976912261-iir3tj5wu</odeBlockId>
+          <odeIdeviceId>idevice-1777976912260-w5dve4kj9</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src=" https://padlet.com/croscob364/tarea5-1-g7var1xw0xn5ev59" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974843983-99bn0uorb</odePageId>
+  <odeParentPageId>page-1777974785686-ifthv0xdc</odeParentPageId>
+  <pageName>Nuestra Hoja de Ruta</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestra Hoja de Ruta</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974843983-99bn0uorb</odePageId>
+      <odeBlockId>block-1777977163541-2timcgeaj</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974843983-99bn0uorb</odePageId>
+          <odeBlockId>block-1777977163541-2timcgeaj</odeBlockId>
+          <odeIdeviceId>idevice-1777977163540-s3fn6con4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que no os perdáis en este viaje de investigación, aquí tenéis nuestra planificación detallada. En esta imagen veréis qué haremos en cada una de las 6 sesiones, desde el laboratorio biomecánico hasta la gala final.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/Hoja de Ruta.png" title="Línea temporal del proyecto Anatomía 2.0." width="1308" height="872" alt="Línea temporal del proyecto Anatomía 2.0." /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977163540-s3fn6con4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que no os perdáis en este viaje de investigación, aquí tenéis nuestra planificación detallada. En esta imagen veréis qué haremos en cada una de las 6 sesiones, desde el laboratorio biomecánico hasta la gala final.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/Hoja de Ruta.png\" title=\"Línea temporal del proyecto Anatomía 2.0.\" width=\"1308\" height=\"872\" alt=\"Línea temporal del proyecto Anatomía 2.0.\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974851802-m2vvu1jya</odePageId>
+  <odeParentPageId>page-1777974785686-ifthv0xdc</odeParentPageId>
+  <pageName>¿Cómo seremos evaluados?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo seremos evaluados?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974851802-m2vvu1jya</odePageId>
+      <odeBlockId>block-1777977334576-n3r15n8ol</odeBlockId>
+      <blockName>📊 Tu camino al éxito: Evaluación transparente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974851802-m2vvu1jya</odePageId>
+          <odeBlockId>block-1777977334576-n3r15n8ol</odeBlockId>
+          <odeIdeviceId>idevice-1777977334574-ohltabu98</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto no solo importa la nota final, sino cómo aprendéis y cómo os ayudáis entre vosotros. Usaremos tres herramientas para que la evaluación sea justa y constructiva:</p>
+<p></p>
+<p>1️⃣ La Guía Digital (Rúbrica de Genially)<br />Vuestro producto final se evaluará bajo tres criterios principales. Para obtener la máxima puntuación (Logrado), aseguraos de cumplir lo siguiente:</p>
+<p>Rigor Anatómico: Desmentir mitos con base científica sólida (IADMS).<br />Curación Digital: Citar correctamente todas las fuentes científicas.<br />Ética y Seguridad: Aplicar el protocolo de imagen y citar los derechos de autor.</p>
+<p><br />2️⃣ Laboratorio Biomecánico (Lista de Cotejo)<br />Mientras trabajéis con Kinovea en clase, observaremos vuestro proceso:</p>
+<p>[ ] ¿Identificas correctamente el eje de rotación de la cadera?<br />[ ] ¿Manejas con soltura las herramientas de medición de ángulos?<br />[ ] ¿Respetas el protocolo ético (no grabar sin consentimiento)?</p>
+<p><br />3️⃣ Tu opinión cuenta (Cuestionario final)<br />Al terminar, rellenaréis un Formulario de Google para reflexionar sobre vuestro aprendizaje. Nos interesa saber:</p>
+<p>¿Te sientes más capaz de detectar noticias falsas sobre salud en redes sociales?<br />¿Qué dificultades técnicas has tenido y cómo las has superado?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977334574-ohltabu98","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto no solo importa la nota final, sino cómo aprendéis y cómo os ayudáis entre vosotros. Usaremos tres herramientas para que la evaluación sea justa y constructiva:</p>\n<p></p>\n<p>1️⃣ La Guía Digital (Rúbrica de Genially)<br />Vuestro producto final se evaluará bajo tres criterios principales. Para obtener la máxima puntuación (Logrado), aseguraos de cumplir lo siguiente:</p>\n<p>Rigor Anatómico: Desmentir mitos con base científica sólida (IADMS).<br />Curación Digital: Citar correctamente todas las fuentes científicas.<br />Ética y Seguridad: Aplicar el protocolo de imagen y citar los derechos de autor.</p>\n<p><br />2️⃣ Laboratorio Biomecánico (Lista de Cotejo)<br />Mientras trabajéis con Kinovea en clase, observaremos vuestro proceso:</p>\n<p>[ ] ¿Identificas correctamente el eje de rotación de la cadera?<br />[ ] ¿Manejas con soltura las herramientas de medición de ángulos?<br />[ ] ¿Respetas el protocolo ético (no grabar sin consentimiento)?</p>\n<p><br />3️⃣ Tu opinión cuenta (Cuestionario final)<br />Al terminar, rellenaréis un Formulario de Google para reflexionar sobre vuestro aprendizaje. Nos interesa saber:</p>\n<p>¿Te sientes más capaz de detectar noticias falsas sobre salud en redes sociales?<br />¿Qué dificultades técnicas has tenido y cómo las has superado?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974851802-m2vvu1jya</odePageId>
+      <odeBlockId>block-1777977410866-lwr9mqro1</odeBlockId>
+      <blockName>Evaluación Formativa y Feedback</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974851802-m2vvu1jya</odePageId>
+          <odeBlockId>block-1777977410866-lwr9mqro1</odeBlockId>
+          <odeIdeviceId>idevice-1777977410865-qmgjerdgp</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Utilizaremos herramientas digitales para recoger estos datos. Esto me permite daros feedback al instante. Por ejemplo, si en la lista de cotejo veo que muchos tenéis dudas con los ángulos en Kinovea, pararemos un momento para aclararlo juntos. ¡El objetivo es que nadie se quede atrás!</p></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>La evaluación sirve para ayudaros a mejorar cada día, no solo para poner una nota. Si algo no sale a la primera, lo corregiremos juntos.</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+      <odeBlockId>block-1777977857086-tppd4hi50</odeBlockId>
+      <blockName>📖 Guía Didáctica: Planificación y Estrategia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+          <odeBlockId>block-1777977857086-tppd4hi50</odeBlockId>
+          <odeIdeviceId>idevice-1777977857086-c769cqq8q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto vincula la técnica de la Danza Clásica con la competencia digital crítica, siguiendo el Marco de Referencia de la Competencia Digital Docente (MRCDD).</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977857086-c769cqq8q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto vincula la técnica de la Danza Clásica con la competencia digital crítica, siguiendo el Marco de Referencia de la Competencia Digital Docente (MRCDD).</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+      <odeBlockId>block-1777977614357-8vgfivqhp</odeBlockId>
+      <blockName>🔗 Relación de Tareas y Criterios de Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+          <odeBlockId>block-1777977614357-8vgfivqhp</odeBlockId>
+          <odeIdeviceId>idevice-1777977614356-4ycl6b6dc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se detalla el diseño instruccional de la Situación de Aprendizaje: </p>
+<table border="1" style="width: 100.063%; background-color: #ecf0f1; border-color: #2DC26B; border-style: ridge;">
+<tbody>
+<tr>
+<td style="width: 33.26%;"><strong>Tarea</strong></td>
+<td style="width: 33.26%;"><strong>Criterio de Evaluación</strong></td>
+<td style="width: 33.2625%;"><strong>Herramienta Sugerida</strong></td>
+</tr>
+<tr>
+<td style="width: 33.26%;">1. Curación de contenidos</td>
+<td style="width: 33.26%;">Identificar y analizar elementos anatómicos y biomecánicos.</td>
+<td style="width: 33.2625%;">Padlet</td>
+</tr>
+<tr>
+<td style="width: 33.26%;">2. Análisis de "Mitos"</td>
+<td style="width: 33.26%;">Valorar la prevención de lesiones mediante el conocimiento anatómico.</td>
+<td style="width: 33.2625%;">Navegador Web</td>
+</tr>
+<tr>
+<td style="width: 33.26%;">3. Laboratorio Biomecánico</td>
+<td style="width: 33.26%;">Aplicar conocimientos para mejorar el control técnico y la alineación.</td>
+<td style="width: 33.2625%;">Kinovea / Hudl</td>
+</tr>
+<tr>
+<td style="width: 33.26%;">4. Diseño de la Guía</td>
+<td style="width: 33.26%;">Utilizar tecnologías digitales para creación de contenidos de salud.</td>
+<td style="width: 33.2625%;">Genially</td>
+</tr>
+<tr>
+<td style="width: 33.26%;">5. Presentación</td>
+<td style="width: 33.26%;">Expresar juicios críticos sobre la danza y su relación con la salud.</td>
+<td style="width: 33.2625%;">Proyector</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977614356-4ycl6b6dc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se detalla el diseño instruccional de la Situación de Aprendizaje: </p>\n<table border=\"1\" style=\"width: 100.063%; background-color: #ecf0f1; border-color: #2DC26B; border-style: ridge;\">\n<tbody>\n<tr>\n<td style=\"width: 33.26%;\"><strong>Tarea</strong></td>\n<td style=\"width: 33.26%;\"><strong>Criterio de Evaluación</strong></td>\n<td style=\"width: 33.2625%;\"><strong>Herramienta Sugerida</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.26%;\">1. Curación de contenidos</td>\n<td style=\"width: 33.26%;\">Identificar y analizar elementos anatómicos y biomecánicos.</td>\n<td style=\"width: 33.2625%;\">Padlet</td>\n</tr>\n<tr>\n<td style=\"width: 33.26%;\">2. Análisis de \"Mitos\"</td>\n<td style=\"width: 33.26%;\">Valorar la prevención de lesiones mediante el conocimiento anatómico.</td>\n<td style=\"width: 33.2625%;\">Navegador Web</td>\n</tr>\n<tr>\n<td style=\"width: 33.26%;\">3. Laboratorio Biomecánico</td>\n<td style=\"width: 33.26%;\">Aplicar conocimientos para mejorar el control técnico y la alineación.</td>\n<td style=\"width: 33.2625%;\">Kinovea / Hudl</td>\n</tr>\n<tr>\n<td style=\"width: 33.26%;\">4. Diseño de la Guía</td>\n<td style=\"width: 33.26%;\">Utilizar tecnologías digitales para creación de contenidos de salud.</td>\n<td style=\"width: 33.2625%;\">Genially</td>\n</tr>\n<tr>\n<td style=\"width: 33.26%;\">5. Presentación</td>\n<td style=\"width: 33.26%;\">Expresar juicios críticos sobre la danza y su relación con la salud.</td>\n<td style=\"width: 33.2625%;\">Proyector</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+      <odeBlockId>block-1777977932162-xeqzqdojv</odeBlockId>
+      <blockName>🛠️ Ecosistema Digital del Docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+          <odeBlockId>block-1777977932162-xeqzqdojv</odeBlockId>
+          <odeIdeviceId>idevice-1777977932161-uzqtlw42j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la gestión, tutorización y curación de este proyecto, se utiliza el siguiente entorno profesional:</p>
+<p>Repositorio de gestión (Symbaloo): Acceso al Mix de Herramientas. Incluye accesos a Séneca, iPasen y herramientas de análisis técnico como Kinovea.</p>
+<p></p>
+<p>Accede aquí: <a href="https://www.symbaloo.com/mix/tarea-5-1-32bt" title="Symbaloo">Symbaloo</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977932161-uzqtlw42j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la gestión, tutorización y curación de este proyecto, se utiliza el siguiente entorno profesional:</p>\n<p>Repositorio de gestión (Symbaloo): Acceso al Mix de Herramientas. Incluye accesos a Séneca, iPasen y herramientas de análisis técnico como Kinovea.</p>\n<p></p>\n<p>Accede aquí: <a href=\"https://www.symbaloo.com/mix/tarea-5-1-32bt\" title=\"Symbaloo\">Symbaloo</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+      <odeBlockId>block-1777978076429-n81dh9vet</odeBlockId>
+      <blockName>⚠️ Gestión de la Incertidumbre (Plan B)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>69261b9a-5147-4503-a745-fde1c6106e66</odePageId>
+          <odeBlockId>block-1777978076429-n81dh9vet</odeBlockId>
+          <odeIdeviceId>idevice-1777978076428-foh0svsv7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para garantizar el éxito del proyecto ante posibles fallos técnicos (Indicador 3.1.B2.3), se han previsto:</p>
+<p> </p>
+<ul>
+<li>Modo Offline: Recursos en PDF y vídeos en pendrive para uso sin Wi-Fi.</li>
+<li>Plan B Propioceptivo: Uso de materiales físicos (esqueleto del aula).</li>
+<li>Alumnado Ayudante: Monitores de apoyo para resolver dudas de interfaz.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978076428-foh0svsv7","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Para garantizar el éxito del proyecto ante posibles fallos técnicos (Indicador 3.1.B2.3), se han previsto:</p>\n<p> </p>\n<ul>\n<li>Modo Offline: Recursos en PDF y vídeos en pendrive para uso sin Wi-Fi.</li>\n<li>Plan B Propioceptivo: Uso de materiales físicos (esqueleto del aula).</li>\n<li>Alumnado Ayudante: Monitores de apoyo para resolver dudas de interfaz.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974808996-ih2fs934b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974808996-ih2fs934b</odePageId>
+      <odeBlockId>block-1777978156458-13knux7pn</odeBlockId>
+      <blockName>📜 Créditos y Licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974808996-ih2fs934b</odePageId>
+          <odeBlockId>block-1777978156458-13knux7pn</odeBlockId>
+          <odeIdeviceId>idevice-1777978156457-ujk2ylz6r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Autoría: Claudia Rosa Cobos</li>
+<li>Título del Proyecto: Anatomía 2.0: Biomecánica segura y curación de contenidos.</li>
+<li>Materia: Anatomía aplicada a la Danza / Danza Clásica.</li>
+<li>Nivel: 6º curso de Enseñanzas Profesionales de Danza.</li>
+<li>Licencia: Este material se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual (BY-SA) 4.0.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777978156457-ujk2ylz6r","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<ul>\n<li>Autoría: Claudia Rosa Cobos</li>\n<li>Título del Proyecto: Anatomía 2.0: Biomecánica segura y curación de contenidos.</li>\n<li>Materia: Anatomía aplicada a la Danza / Danza Clásica.</li>\n<li>Nivel: 6º curso de Enseñanzas Profesionales de Danza.</li>\n<li>Licencia: Este material se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual (BY-SA) 4.0.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777974808996-ih2fs934b</odePageId>
+      <odeBlockId>block-1777978670037-11r4sehcp</odeBlockId>
+      <blockName>Descarga del archivo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974808996-ih2fs934b</odePageId>
+          <odeBlockId>block-1777978670037-11r4sehcp</odeBlockId>
+          <odeIdeviceId>idevice-1777978670036-b0spr87ii</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Anatomía 2.0</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Claudia Rosa Cobos</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
